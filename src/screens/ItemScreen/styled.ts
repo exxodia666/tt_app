@@ -33,9 +33,10 @@ export const CommentTextInput = styled.TextInput`
 `;
 
 export const TextInput = styled.TextInput`
+  text-align-vertical: top;
   height: 100%;
   width: 100%;
-  margin-top: 0px;
-  padding-top: 0px;
+  margin: 0px;
+  padding: 0px;
   background-color: white;
 `;
